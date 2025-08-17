@@ -1,18 +1,32 @@
- Hi there! 
+# TUG Profile
 
-## About Me
-I'm a **3rd-year Computer Science student at Doğuş University** and a passionate full-stack developer. I have experience in building web applications, and currently, I am developing a **note-taking web application**. In the future, I plan to transition into **mobile development**.
+**TUG Profile**, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir web projesidir.  
+Proje, bir Instagram profilinin görünümünü taklit ederek kullanıcıya basit bir profil sayfası deneyimi sunar.  
 
-## Tech Stack
-- **Programming Languages:** Python, MATLAB, Java, C++, C
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Java, Spring Boot, REST API, PHP
-- **Concepts:** Algorithm Analysis, Object-Oriented Development
-- **Tools & IDEs:** IntelliJ IDEA, VS Code, GitHub
+🌐 Canlı Demo: [TUG Profile](https://melikehacibekiroglu.github.io/tug-profile/)
 
+---
 
-## Connect with Me
-- [GitHub](https://github.com/Melikehacıbekiroglu)
-- [LinkedIn](www.linkedin.com/in/melike-hacibekiroglu)
+## 🚀 Özellikler
+- 📱 Instagram benzeri profil tasarımı
+- 👤 Kullanıcı adı, biyografi ve profil fotoğrafı
+- 🖼 Gönderi grid yapısı
+- 💬 Gönderi açıklamaları ve etkileşim ikonları (like, comment, share)
+- 🎨 Responsive tasarım (mobil uyumlu)
 
-Feel free to reach out and collaborate! 
+---
+
+## 🛠 Kullanılan Teknolojiler
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+---
+
+## 📂 Proje Yapısı
+```plaintext
+tug-profile/
+├─ index.html        → Ana sayfa
+├─ style.css         → Tasarım dosyası
+├─ script.js         → Basit JS etkileşimleri
+└─ assets/           → Görseller (profil fotoğrafı, gönderiler)
